@@ -1,1 +1,10 @@
 /* write your override styles here */
+.tag-1 {
+    background: style="display: none;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://curriculum-content.s3.amazonaws.com/fewds-css/css-graffiti-override/inspect1.png";
+    z-index: 7;
+    display: none;
+}
+
+#wall .tag-1 {
+    display: none;
+}
